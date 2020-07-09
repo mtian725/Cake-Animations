@@ -1,7 +1,8 @@
 # Cake-Animations
 Web application with the goal of practicing GSAP and React.js and experimenting with animations.
 
--------------------------------------------------------
+________________________________________________
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
