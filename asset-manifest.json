@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Cake-Animations/static/css/main.e288d425.chunk.css",
-    "main.js": "/Cake-Animations/static/js/main.bc9e6ebe.chunk.js",
-    "main.js.map": "/Cake-Animations/static/js/main.bc9e6ebe.chunk.js.map",
+    "main.css": "/Cake-Animations/static/css/main.7b9d915c.chunk.css",
+    "main.js": "/Cake-Animations/static/js/main.27c816ce.chunk.js",
+    "main.js.map": "/Cake-Animations/static/js/main.27c816ce.chunk.js.map",
     "runtime-main.js": "/Cake-Animations/static/js/runtime-main.54dd2b87.js",
     "runtime-main.js.map": "/Cake-Animations/static/js/runtime-main.54dd2b87.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Cake-Animations/static/css/2.af3c1da9.chunk.css",
     "static/js/2.052ba37f.chunk.js": "/Cake-Animations/static/js/2.052ba37f.chunk.js",
     "static/js/2.052ba37f.chunk.js.map": "/Cake-Animations/static/js/2.052ba37f.chunk.js.map",
     "index.html": "/Cake-Animations/index.html",
-    "precache-manifest.195c915839348f681f9473112bd01f2f.js": "/Cake-Animations/precache-manifest.195c915839348f681f9473112bd01f2f.js",
+    "precache-manifest.cebc419f34241a2a37890514af6024dc.js": "/Cake-Animations/precache-manifest.cebc419f34241a2a37890514af6024dc.js",
     "service-worker.js": "/Cake-Animations/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Cake-Animations/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.e288d425.chunk.css.map": "/Cake-Animations/static/css/main.e288d425.chunk.css.map",
+    "static/css/main.7b9d915c.chunk.css.map": "/Cake-Animations/static/css/main.7b9d915c.chunk.css.map",
     "static/js/2.052ba37f.chunk.js.LICENSE.txt": "/Cake-Animations/static/js/2.052ba37f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54dd2b87.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.052ba37f.chunk.js",
-    "static/css/main.e288d425.chunk.css",
-    "static/js/main.bc9e6ebe.chunk.js"
+    "static/css/main.7b9d915c.chunk.css",
+    "static/js/main.27c816ce.chunk.js"
   ]
 }
