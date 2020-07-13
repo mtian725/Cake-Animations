@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2953ba7a03747f25f7df20e213904f06",
+    "revision": "782e7137778b6ef8c1f2426d0209456f",
     "url": "/Cake-Animations/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cake-Animations/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4cbdde3d8de96ed989bb",
+    "revision": "55c766e56c7974b1b15b",
     "url": "/Cake-Animations/static/css/main.7b9d915c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cake-Animations/static/js/2.5d1e3adb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cbdde3d8de96ed989bb",
-    "url": "/Cake-Animations/static/js/main.33ede1de.chunk.js"
+    "revision": "55c766e56c7974b1b15b",
+    "url": "/Cake-Animations/static/js/main.2c903feb.chunk.js"
   },
   {
     "revision": "a2c07db6dc147fd8469e",
