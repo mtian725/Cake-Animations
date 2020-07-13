@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cake-Animations/precache-manifest.b5a96818556094c045eb5ba0909c44c6.js"
+  "/Cake-Animations/precache-manifest.b27cf0e586608d06e62aadc2e13d61a4.js"
 );
 
 self.addEventListener('message', (event) => {
