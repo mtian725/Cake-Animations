@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Cake-Animations/static/css/main.7b9d915c.chunk.css",
-    "main.js": "/Cake-Animations/static/js/main.cc6e9519.chunk.js",
-    "main.js.map": "/Cake-Animations/static/js/main.cc6e9519.chunk.js.map",
+    "main.js": "/Cake-Animations/static/js/main.db6d4ed0.chunk.js",
+    "main.js.map": "/Cake-Animations/static/js/main.db6d4ed0.chunk.js.map",
     "runtime-main.js": "/Cake-Animations/static/js/runtime-main.54dd2b87.js",
     "runtime-main.js.map": "/Cake-Animations/static/js/runtime-main.54dd2b87.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Cake-Animations/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5d1e3adb.chunk.js": "/Cake-Animations/static/js/2.5d1e3adb.chunk.js",
-    "static/js/2.5d1e3adb.chunk.js.map": "/Cake-Animations/static/js/2.5d1e3adb.chunk.js.map",
+    "static/js/2.841398da.chunk.js": "/Cake-Animations/static/js/2.841398da.chunk.js",
+    "static/js/2.841398da.chunk.js.map": "/Cake-Animations/static/js/2.841398da.chunk.js.map",
     "index.html": "/Cake-Animations/index.html",
-    "precache-manifest.0f57350ff67f5e3211c1d541823fb122.js": "/Cake-Animations/precache-manifest.0f57350ff67f5e3211c1d541823fb122.js",
+    "precache-manifest.008d7170d3dbb2c9947047f4f235ebba.js": "/Cake-Animations/precache-manifest.008d7170d3dbb2c9947047f4f235ebba.js",
     "service-worker.js": "/Cake-Animations/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Cake-Animations/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.7b9d915c.chunk.css.map": "/Cake-Animations/static/css/main.7b9d915c.chunk.css.map",
-    "static/js/2.5d1e3adb.chunk.js.LICENSE.txt": "/Cake-Animations/static/js/2.5d1e3adb.chunk.js.LICENSE.txt"
+    "static/js/2.841398da.chunk.js.LICENSE.txt": "/Cake-Animations/static/js/2.841398da.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54dd2b87.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.5d1e3adb.chunk.js",
+    "static/js/2.841398da.chunk.js",
     "static/css/main.7b9d915c.chunk.css",
-    "static/js/main.cc6e9519.chunk.js"
+    "static/js/main.db6d4ed0.chunk.js"
   ]
 }
